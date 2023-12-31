@@ -96,8 +96,7 @@ group by customer_id;
 
 
 
--- 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, 
---not just sushi - how many points do customer A and B have at the end of January?
+-- 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 
 with cust_details as(
@@ -120,7 +119,7 @@ select
 			when product_name = 'sushi' or order_date between join_date and first_week_of_join_date then 20*price
 			else 10*price 
 			end
-		) as points
+	    ) as points
 from cust_details
 where month(order_date) = 1
 group by customer_id
