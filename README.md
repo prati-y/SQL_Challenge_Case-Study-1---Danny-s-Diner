@@ -1,3 +1,5 @@
+# Case Study #1 - Danny's Diner
+
 Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
@@ -16,4 +18,5 @@ members
 
 Entity Relationship Diagram
 
+![image](https://github.com/prati-y/SQL_Challenge_Case-Study-1---Danny-s-Diner/assets/104661414/064de43d-0baa-4233-9f88-01a2f1715dcb)
 
