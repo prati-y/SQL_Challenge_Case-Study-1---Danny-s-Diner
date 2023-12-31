@@ -25,10 +25,17 @@ Entity Relationship Diagram
 # Conclusion
 
 Customer A has made the highest total purchase amount at the restaurant.
+
 Customer B visited 6 days, followed by customer A with 4 and C for 2 days.
+
 Customers A, B, and C ordered the first item as Curry, Sushi, and Ramen.
+
 Ramen is the most frequently purchased item on the menu.
+
 Customers A and B, after becoming members, purchased Curry and Sushi as their first items, respectively.
+
 However, before they opted for the membership, Customers A and B purchased the same product, which seemed to be their favorite item on the menu.
+
 After they became members, customer A spent $25 on 2 items, while customer B spent $40 on 3 things.
+
 Customer B accumulated the highest number of points among all other customers for Sushi.
