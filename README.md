@@ -22,7 +22,7 @@ Entity Relationship Diagram
 ![image](https://github.com/prati-y/SQL_Challenge_Case-Study-1---Danny-s-Diner/assets/104661414/064de43d-0baa-4233-9f88-01a2f1715dcb)
 
 
-# Conclusion
+# Insights from this case study
 
 Customer A has made the highest total purchase amount at the restaurant.
 
